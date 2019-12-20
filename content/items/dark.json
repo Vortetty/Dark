@@ -1,0 +1,6 @@
+{
+	"type": "material",
+	"name": "Dark",
+	"description": "A capsule containing dark. Good for building because of its durability.",
+	"color": "#000000"
+}
