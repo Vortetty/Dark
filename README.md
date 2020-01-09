@@ -2,10 +2,10 @@
 A WIP mod for mindustry, based around using Dark. In contrast to Light based around speed, Dark is durable, but slow
 
 ## Wiki
-Will be avalible at https://vortetty.github.io/Wikis/Dark/
+Will be avalible at [Dark Wiki](https://vortetty.github.io/Wikis/Dark/)
 
 ## Light
-my other mod called [Light](https://github.com/Vortetty/Light){:target="_blank"}
+my other mod called [Light](https://github.com/Vortetty/Light)
 
 ## To Do
 
