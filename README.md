@@ -5,7 +5,7 @@ A WIP mod for mindustry, based around using Dark. In contrast to Light based aro
 Will be avalible at https://vortetty.github.io/Wikis/Dark/
 
 ## Light
-my other mod, check it out at <a href="https://github.com/Vortetty/Light" target="_blank">https://github.com/Vortetty/Light</a>
+my other mod called [Light](https://github.com/Vortetty/Light){:target="_blank"}
 
 ## To Do
 
