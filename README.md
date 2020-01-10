@@ -9,6 +9,10 @@ my other mod called [Light](https://github.com/Vortetty/Light)
 
 ## To Do
 
+ - [ ] Custom Block Rebuilding Drones
+ - [ ] slow, strong attack drones 
+ - [ ] walls to keep the bots out of your space
+ 
 <details><summary>Completed Tasks</summary>
   
   
